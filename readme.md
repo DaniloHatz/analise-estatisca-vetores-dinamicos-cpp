@@ -39,7 +39,8 @@ O projeto é dividido em três arquivos principais:
 
 ### Exemplo de Saída  
 
-```*****************************************************
+```
+-----------------------
 Resumo por Participante
 -----------------------
 João:
@@ -63,7 +64,7 @@ Estatísticas
 Questão A: Dificuldade (1.50) – Tempo (13.50 minutos)
 Questão B: Dificuldade (4.50) – Tempo (32.50 minutos)
 Concurso:  Dificuldade (3.00) – Tempo (23.00 minutos)
-*****************************************************```
+```
 
 ## Tecnologias e Conceitos Aplicados
 
