@@ -58,7 +58,7 @@ Questão A:
 Questão B:
     João (4) 09:50 às 10:20 (30 min)
     Pedro (5) 10:30 às 11:05 (35 min)
-------------------
+------------
 Estatísticas
 ------------
 Questão A: Dificuldade (1.50) – Tempo (13.50 minutos)
